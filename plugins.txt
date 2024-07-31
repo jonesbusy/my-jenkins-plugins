@@ -24,6 +24,5 @@ next-executions
 nunit
 openshift-k8s-credentials
 parameter-separator
-pipeline-as-yaml
 postgresql-fingerprint-storage
 skip-notifications-trait
