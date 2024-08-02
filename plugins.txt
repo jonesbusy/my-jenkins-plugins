@@ -20,6 +20,7 @@ json-api
 json-path-api
 junit-attachments
 locale
+login-theme
 next-executions
 nunit
 openshift-k8s-credentials
