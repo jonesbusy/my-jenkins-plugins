@@ -4,7 +4,8 @@ artifactory-client-api
 asm-api
 bitbucket-kubernetes-credentials
 byte-buddy-api
-coverage-badges-extension:
+commons-math3-api
+coverage-badges-extension
 extension-filter
 extra-tool-installers
 file-operations
