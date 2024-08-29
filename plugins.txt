@@ -25,6 +25,7 @@ login-theme
 next-executions
 nunit
 openshift-k8s-credentials
+oss-symbols-api
 parameter-separator
 postgresql-fingerprint-storage
 skip-notifications-trait
