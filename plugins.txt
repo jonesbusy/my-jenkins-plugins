@@ -6,6 +6,7 @@ bitbucket-kubernetes-credentials
 byte-buddy-api
 commons-math3-api
 coverage-badges-extension
+database-mariadb
 extension-filter
 extra-tool-installers
 file-operations
@@ -22,6 +23,7 @@ json-path-api
 junit-attachments
 locale
 login-theme
+mariadb-api
 next-executions
 nunit
 openshift-k8s-credentials
