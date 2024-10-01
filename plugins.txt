@@ -29,5 +29,6 @@ nunit
 openshift-k8s-credentials
 oss-symbols-api
 parameter-separator
+pipeline-npm
 postgresql-fingerprint-storage
 skip-notifications-trait
