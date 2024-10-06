@@ -1,0 +1,11 @@
+artifactory-client-api
+asm-api
+byte-buddy-api
+commons-math3-api
+flyway-api
+gson-api
+joda-time-api
+json-api
+json-path-api
+mariadb-api
+oss-symbols-api
