@@ -1,4 +1,3 @@
-ansible
 artifactory-artifact-manager
 bitbucket-kubernetes-credentials
 coverage-badges-extension
@@ -11,7 +10,6 @@ gitlab-kubernetes-credentials
 hidden-parameter
 jobcacher
 jobcacher-artifactory-storage
-junit-attachments
 locale
 login-theme
 next-executions

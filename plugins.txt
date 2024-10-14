@@ -1,4 +1,3 @@
-ansible
 artifactory-artifact-manager
 artifactory-client-api
 asm-api
@@ -20,7 +19,6 @@ jobcacher-artifactory-storage
 joda-time-api
 json-api
 json-path-api
-junit-attachments
 locale
 login-theme
 mariadb-api
