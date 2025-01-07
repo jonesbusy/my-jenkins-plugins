@@ -19,6 +19,7 @@ jobcacher-artifactory-storage
 joda-time-api
 json-api
 json-path-api
+jnr-posix-api
 locale
 login-theme
 mariadb-api

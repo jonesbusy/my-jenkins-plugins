@@ -7,5 +7,6 @@ gson-api
 joda-time-api
 json-api
 json-path-api
+jnr-posix-api
 mariadb-api
 oss-symbols-api
