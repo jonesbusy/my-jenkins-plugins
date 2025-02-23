@@ -6,6 +6,7 @@ flyway-api
 gson-api
 joda-time-api
 json-api
+jsoup
 json-path-api
 jnr-posix-api
 mariadb-api

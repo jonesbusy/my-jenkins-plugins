@@ -8,6 +8,7 @@ file-operations
 flyway-runner
 gitlab-kubernetes-credentials
 hidden-parameter
+jcaptcha-plugin
 jobcacher
 jobcacher-artifactory-storage
 locale

@@ -14,12 +14,14 @@ flyway-runner
 gitlab-kubernetes-credentials
 gson-api
 hidden-parameter
+jcaptcha-plugin
 jobcacher
 jobcacher-artifactory-storage
 joda-time-api
 json-api
 json-path-api
 jnr-posix-api
+jsoup
 locale
 login-theme
 mariadb-api
