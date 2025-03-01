@@ -2,6 +2,7 @@ artifactory-artifact-manager
 artifactory-client-api
 asm-api
 bitbucket-kubernetes-credentials
+build-history-metrics-plugin
 byte-buddy-api
 commons-math3-api
 coverage-badges-extension

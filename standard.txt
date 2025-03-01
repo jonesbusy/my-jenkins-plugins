@@ -1,5 +1,6 @@
 artifactory-artifact-manager
 bitbucket-kubernetes-credentials
+build-history-metrics-plugin
 coverage-badges-extension
 database-mariadb
 extension-filter
