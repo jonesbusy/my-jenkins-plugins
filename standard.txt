@@ -12,6 +12,7 @@ hidden-parameter
 jcaptcha-plugin
 jobcacher
 jobcacher-artifactory-storage
+jobcacher-oras-storage
 junit-attachments
 locale
 login-theme
@@ -22,4 +23,5 @@ parameter-separator
 pipeline-cps-http
 pipeline-npm
 postgresql-fingerprint-storage
+s3-jobcacher-storage
 skip-notifications-trait

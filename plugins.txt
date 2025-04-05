@@ -18,6 +18,7 @@ hidden-parameter
 jcaptcha-plugin
 jobcacher
 jobcacher-artifactory-storage
+jobcacher-oras-storage
 joda-time-api
 json-api
 json-path-api
@@ -35,4 +36,5 @@ parameter-separator
 pipeline-cps-http
 pipeline-npm
 postgresql-fingerprint-storage
+s3-jobcacher-storage
 skip-notifications-trait
