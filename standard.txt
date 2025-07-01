@@ -22,6 +22,8 @@ openshift-k8s-credentials
 parameter-separator
 pipeline-cps-http
 pipeline-npm
+pipeline-lib-oras
+pipeline-cps-oras
 postgresql-fingerprint-storage
 s3-jobcacher-storage
 skip-notifications-trait
