@@ -27,3 +27,4 @@ pipeline-cps-oras
 postgresql-fingerprint-storage
 s3-jobcacher-storage
 skip-notifications-trait
+simple-priority-sorter
