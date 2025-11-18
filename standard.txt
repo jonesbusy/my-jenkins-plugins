@@ -5,6 +5,7 @@ coverage-badges-extension
 database-mariadb
 extension-filter
 extra-tool-installers
+extended-read-permission
 file-operations
 flyway-runner
 gitlab-kubernetes-credentials
