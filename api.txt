@@ -4,6 +4,7 @@ byte-buddy-api
 commons-math3-api
 flyway-api
 gson-api
+jackson3-api
 joda-time-api
 json-api
 jsoup

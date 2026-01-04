@@ -16,6 +16,7 @@ flyway-runner
 gitlab-kubernetes-credentials
 gson-api
 hidden-parameter
+jackson3-api
 jcaptcha-plugin
 jobcacher
 jobcacher-artifactory-storage
