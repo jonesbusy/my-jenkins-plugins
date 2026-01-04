@@ -14,7 +14,6 @@ jcaptcha-plugin
 jobcacher
 jobcacher-artifactory-storage
 jobcacher-oras-storage
-junit-attachments
 locale
 login-theme
 next-executions

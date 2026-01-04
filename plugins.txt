@@ -25,7 +25,6 @@ json-api
 json-path-api
 jnr-posix-api
 jsoup
-junit-attachments
 locale
 login-theme
 mariadb-api
