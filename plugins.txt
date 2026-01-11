@@ -15,6 +15,7 @@ flyway-api
 flyway-runner
 gitlab-kubernetes-credentials
 gson-api
+git-version-monitor
 hidden-parameter
 jackson3-api
 jcaptcha-plugin

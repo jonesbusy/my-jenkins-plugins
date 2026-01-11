@@ -9,6 +9,7 @@ extended-read-permission
 file-operations
 flyway-runner
 gitlab-kubernetes-credentials
+git-version-monitor
 hidden-parameter
 jcaptcha-plugin
 jobcacher
