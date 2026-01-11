@@ -27,5 +27,6 @@ pipeline-lib-oras
 pipeline-cps-oras
 postgresql-fingerprint-storage
 s3-jobcacher-storage
+scm-filter-branch-pr
 skip-notifications-trait
 simple-priority-sorter
