@@ -11,5 +11,5 @@ jsoup
 json-path-api
 jnr-posix-api
 mariadb-api
-oras-java-api-plugin
+oras-java-api
 oss-symbols-api

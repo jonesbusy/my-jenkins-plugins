@@ -32,7 +32,7 @@ mariadb-api
 next-executions
 nunit
 openshift-k8s-credentials
-oras-java-api-plugin
+oras-java-api
 oss-symbols-api
 parameter-separator
 pipeline-cps-http
