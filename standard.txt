@@ -3,6 +3,7 @@ bitbucket-kubernetes-credentials
 build-history-metrics-plugin
 coverage-badges-extension
 database-mariadb
+exclusive-label-plugin
 extension-filter
 extra-tool-installers
 extended-read-permission
