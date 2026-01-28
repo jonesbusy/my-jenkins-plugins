@@ -46,3 +46,4 @@ s3-jobcacher-storage
 scm-filter-branch-pr
 skip-notifications-trait
 simple-priority-sorter
+webhook-secret-credentials-provider
